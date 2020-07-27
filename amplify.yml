@@ -6,9 +6,9 @@ frontend:
         - yarn install
     build:
       commands:
-        - yarn run build
+        - yarn build
   artifacts:
-    baseDirectory: docs/.vuepress/dist
+    baseDirectory: blog/.vuepress/dist
     files:
       - '**/*'
   cache:
