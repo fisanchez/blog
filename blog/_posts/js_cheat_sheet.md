@@ -2,8 +2,6 @@
 title: JavaScript Cheat Sheet
 ---
 
-# JavaScript Cheat Sheet
-
 ## Variable types
 
 var: 

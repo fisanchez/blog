@@ -2,8 +2,6 @@
 title: JavaScript Destructuring
 ---
 
-# JavaScript destructuring
-
 JavaScript destructuring is an alternative way to retrieving information from objects and arrays.
 
 ## Object Destructuring
